@@ -1,2 +1,10 @@
 4/12/24
 Created update log
+Created firstbranch
+Created and wrote manifest json
+added icon being referenced in manifest json
+Created and wrote hello html
+changed second default_popup to default_icon
+Renamed icon as the previous name was not referenced, and the app would not work
+added script tag to hello.html
+Added console log in popup.js
